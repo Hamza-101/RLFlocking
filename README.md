@@ -1,2 +1,2 @@
-# ReinforcementLearning_Flocking
+# ReinforcementLearning Based Flocking
 Centralized Reinforcement Learning Based Flocking
