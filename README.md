@@ -23,7 +23,9 @@ Centralized Reinforcement Learning Based Flocking
 
 
 ## Architecture
-![Neural Net](https://github.com/user-attachments/assets/25fd4d5f-ccd3-4e45-a8a6-2a5eef10627f)
+<div>
+      <img src="https://github.com/user-attachments/assets/25fd4d5f-ccd3-4e45-a8a6-2a5eef10627f" />
+</div>
 
 - OS: Windows-10-10.0.22631-SP0 10.0.22631
 - Python: 3.11.4
