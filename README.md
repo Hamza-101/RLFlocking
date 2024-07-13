@@ -1,7 +1,7 @@
 # Reinforcement Learning Based Flocking
 Centralized Reinforcement Learning Based Flocking
 
-### Cohesion Function
+## Cohesion Function
 ![image](https://github.com/user-attachments/assets/80fe8d3e-5dfb-487e-8a3a-99004cf4d37f)
 ![image](https://github.com/user-attachments/assets/22336301-e8b8-44d5-bf06-762d736917fc)
 <div style="display: flex;">
@@ -10,11 +10,11 @@ Centralized Reinforcement Learning Based Flocking
 </div>
 
 
-### Separation Function
+## Separation Function
 ![image](https://github.com/user-attachments/assets/95b0fd56-a86f-487e-87e3-852b8abe7cb5)
 
 
-### Alignment Function
+## Alignment Function
 ![image](https://github.com/user-attachments/assets/487c24fc-bafe-4e85-9fa2-6d621317d2b6)
 <div style="display: flex;">
   <img src="https://github.com/user-attachments/assets/6dcd4b2d-7a80-4c97-8de7-ce0826914ef1" width="500" height="400" />
